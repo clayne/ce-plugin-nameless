@@ -4,6 +4,10 @@
 
 This is a simple plugin to help bypass anti-cheat window title detection methods. 
 
+## Versions 
+
+* [6.7-7.1](https://github.com/dove-zp/ce.plugin.nameless/tree/6.7-7.1)
+
 ## License
 
 This project is licensed under the [BSD 3-Clause License (Revised)](https://tldrlegal.com/license/bsd-3-clause-license-(revised)). 
