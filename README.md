@@ -4,36 +4,6 @@
 
 This is a simple plugin to help bypass anti-cheat window title detection methods. 
 
-## Building Environment
-
-* Support for Windows XP - 10
-* Visual Studio 2015-2019 Recommended
-
-## Installation
-
-* Extract the most recent RELEASE zip release into the root directory for `Cheat Engine` 
-  * The directory where `cheatengine-x86_64.exe` is located
-* If needed, configure the `nameless.ini` settings file
-* Run Cheat Engine and start hacking!
-
-## Settings
-
-* random_generation
-  * Generates a random string
-* refresh_rate_ms
-  * Timer until next refresh of the Window's Title
-* window_name
-  * Custom window title name
-  * Blank means that a random string will be generated  
-
-### Default INI File Format
-```
-[settings]
-random_generation = true
-refresh_rate_ms = 500
-window_name = 
-```
-
 ## License
 
 This project is licensed under the [BSD 3-Clause License (Revised)](https://tldrlegal.com/license/bsd-3-clause-license-(revised)). 
