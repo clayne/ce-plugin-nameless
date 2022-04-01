@@ -4,6 +4,8 @@
 
 This is a simple plugin to help bypass anti-cheat window title detection methods. 
 
+![](https://i.imgur.com/Xm1ZwmT.png)
+
 ## SDK Versions 
 
 * [v5.0.0](https://github.com/dove-zp/ce.plugin.nameless/tree/v5.0.0)
